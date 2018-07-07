@@ -78,7 +78,7 @@ export default {
 .timeline__year{
   padding: .5rem 1.5rem;
   color: var(--uiTimelineSecondaryColor);
-  background-color: #58D6EA;
+  background-color: #1ED7EF;
   position: absolute;
   left: -11px;
   top: 0;

@@ -42,7 +42,7 @@ $primary-invert: findColorInvert($primary);
 $twitter: #4099FF;
 $twitter-invert: findColorInvert($twitter);
 $purple: #6C3483;
-$light-blue-green :rgb(67, 202, 219);
+$light-blue-green :#1ED7EF;
 $light-dark : #767676;
 $lighter-dark : #9F9F9F;
 
@@ -72,15 +72,12 @@ $link-focus-border: $primary;
 // Import Bulma and Buefy styles
 @import "~bulma";
 @import "~buefy/src/scss/buefy";
-</style>
-
-
-<style>
 
 #app {
   height: 100%;
   width: 100%;
   overflow: hidden;
+  font-family: 'Ubuntu', sans-serif;
 }
 .w100 {
   font-family: 'Lato', sans-serif;
