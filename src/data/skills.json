@@ -1,0 +1,41 @@
+[
+    {
+        "category" : "Programming Languages",
+        "items": [{"name" : "Java", "level" : "3"}, 
+                  {"name" : "C", "level" : "3"},
+                  {"name" : "Kotlin", "level" : "1"}
+                ]
+    },
+    {
+        "category" : "Web",
+        "items": [{"name" : "HTML", "level" : "3"}, 
+                  {"name" : "CSS", "level" : "3"}, 
+                  {"name" : "JS", "level" : "3"}, 
+                  {"name" : "PHP", "level" : "2"}
+                ]
+    },
+    {
+        "category": "Database",
+        "items": [{"name" : "MySQL", "level" : "3"}, 
+                  {"name" : "MongoDB", "level" : "3"}, 
+                  {"name" : "PostgreSQL", "level" : "2"}
+                ]
+    },
+    {
+        "category": "Designing Tools",
+        "items": [{"name" : "Photoshop", "level" : "3"}, 
+                  {"name" : "Flash", "level" : "3"}, 
+                  {"name" : "AfterEffects", "level" : "2"}, 
+                  {"name" : "Illustrator", "level" : "1"}
+                ]
+    },
+    {
+        "category": "Theoretical Knowledge",
+        "items": [{"name" : "Software Construction", "level" : "3"}, 
+                  {"name" : "Computer Architecture", "level" : "3"},
+                  {"name" : "Embedded Systems", "level" : "2"}, 
+                  {"name" : "Data Structures & Algorithms", "level" : "2"},
+                  {"name" : "Cryptography", "level" : "2"}
+                ]
+    }
+]

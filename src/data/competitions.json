@@ -1,0 +1,63 @@
+[
+    {
+        "year": "2016",
+        "events": [{
+          "name": "Aces Hackathon 2016",
+          "desc": "Developed the Android App for Sleep avoidance Wearable Device(S-sense)",
+          "award": "1st Place",
+          "tech": ["Android"],
+          "month": "APR"
+        },
+        {
+            "name": "Aces Codersv6.0 2016",
+            "desc": "24Hr coding competition",
+            "award": "Participation",
+            "tech": ["Java", "C"],
+            "month": "JUL"
+        },
+        {
+            "name": "Uwa Robot Battles 2016",
+            "desc": "TODO",
+            "award": "Participation",
+            "tech": ["C"],
+            "month": "OCT"
+        },
+        {
+            "name": "SLIIT CodeFest Hackathon 2016",
+            "desc": "TODO",
+            "award": "Participation",
+            "tech": ["TODO"],
+            "month": "NOV"
+        }
+        ] 
+    },
+    {
+        "year": "2017",
+        "events": [{
+          "name": "Aces Hackathon 2017",
+          "desc": "Developing a Smart parking System",
+          "award": "Participation",
+          "tech": ["Android", "Firebase"],
+          "month": "MAY"
+        },
+        {
+            "name": "IFS Code Kombat 2017",
+            "desc": "Coding a Battle Bot",
+            "award": "Participation",
+            "tech": ["Java"],
+            "month": "OCT"
+        }
+        ] 
+    },
+    {
+        "year": "2018",
+        "events": [{
+          "name": "Aces Hackathon 2018",
+          "desc": "Developing a Telepresence Robot",
+          "award": "Participation",
+          "tech": ["Nodejs", "Vuejs", "MongoDB", "Java"],
+          "month": "MAY"
+        }
+        ] 
+    }
+]
