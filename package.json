@@ -11,7 +11,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "buefy": "^0.6.6",
+    "buefy": "^0.8.6",
     "node-sass": "^4.13.0",
     "sass-loader": "^7.0.3",
     "vue": "^2.5.2",
