@@ -1,0 +1,71 @@
+[
+    {
+        "year": "2018",
+        "events": [{
+            "name": "iHack 4.0 2018",
+            "desc": "Developing a RadioBook",
+            "award": "1st Runners Up",
+            "tech": ["Nodejs", "Vuejs", "Stanford NLP", "MaryTTS"],
+            "month": "OCT"
+        },
+        {
+          "name": "Aces Hackathon 2018",
+          "desc": "Developing a Telepresence Robot",
+          "award": "Participation",
+          "tech": ["Nodejs", "Vuejs", "MongoDB", "Java"],
+          "month": "MAY"
+        }
+        ] 
+    }
+    ,
+    {
+        "year": "2017",
+        "events": [{
+            "name": "IFS Code Kombat 2017",
+            "desc": "Coding a Battle Bot",
+            "award": "Participation",
+            "tech": ["Java"],
+            "month": "OCT"
+        },
+        {
+            "name": "Aces Hackathon 2017",
+            "desc": "Developing a Smart parking System",
+            "award": "Participation",
+            "tech": ["Android", "Firebase"],
+            "month": "MAY"
+        }        
+        ] 
+    },
+    {
+        "year": "2016",
+        "events": [{
+            "name": "SLIIT CodeFest Hackathon 2016",
+            "desc": "Created a Student monitoring system",
+            "award": "Participation",
+            "tech": ["AfterEffects"],
+            "month": "NOV"
+        },
+        {
+            "name": "Uwa Robot Battles 2016",
+            "desc": "TODO",
+            "award": "Participation",
+            "tech": ["C"],
+            "month": "OCT"
+        },
+        {
+            "name": "Aces Codersv6.0 2016",
+            "desc": "24Hr coding competition",
+            "award": "Participation",
+            "tech": ["Java", "C"],
+            "month": "JUL"
+        },
+        {
+          "name": "Aces Hackathon 2016",
+          "desc": "Developed the Android App for Sleep avoidance Wearable Device(S-sense)",
+          "award": "1st Place",
+          "tech": ["Android"],
+          "month": "APR"
+        }        
+        ] 
+    }    
+]

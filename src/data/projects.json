@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Telepresence Robot",
+      "desc": "A telepresence robot enables the users to establish a virtual presence",
+      "tech": ["Nodejs", "Vuejs", "MongoDB", "Java"],
+      "link": "#"
+    },
+    {
+      "name": "Informational ChatBot",
+      "desc": "A Chatbot where the students can interact to do timetable queries, get course information...",
+      "tech": ["DialogFlow", "Nodejs", "PostgreSQL"],
+      "link": "https://chandimab.github.io/projects/co227-project-chatbot#uxui"
+    },
+    {
+      "name": "Fractels",
+      "desc": "Command line java program to generate Fractels (Mandelbrot and Julia Sets)",
+      "tech": ["Java"],
+      "link": "https://github.com/SanojPunchihewa/Fractals"
+    },
+    {
+      "name": "Auction Server",
+      "desc": "The users can connect to the server using 'nc' command and bid on the stocks.",
+      "tech": ["Java"],
+      "link": "https://github.com/SanojPunchihewa/AuctionServer"
+    },
+    {
+      "name": "Smart Service",
+      "desc": "No need to waste time at queues. Look for free Service stations and take your car to it",
+      "tech": ["HTML", "PHP", "MySQL"],
+      "link": "https://github.com/SanojPunchihewa/CO226ServiceStation"
+    }
+]
