@@ -14,7 +14,7 @@
     "@fortawesome/fontawesome-svg-core": "^1.2.28",
     "@fortawesome/free-solid-svg-icons": "^5.13.0",
     "@fortawesome/vue-fontawesome": "^0.1.9",
-    "buefy": "^0.8.18",
+    "buefy": "^0.9.4",
     "core-js": "^3.6.4",
     "sass-loader": "^8.0.2",
     "vue": "^2.6.11",
